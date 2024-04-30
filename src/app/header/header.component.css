@@ -1,0 +1,16 @@
+.header {
+    /* border: 1px solid black; */
+    width: 100vw;
+    height: 6vh;
+    background-color: #0096FF;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.header>h1 {
+    color: white;
+    /* border: 1px solid black; */
+    margin: 10px;
+}

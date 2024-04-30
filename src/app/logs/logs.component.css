@@ -1,0 +1,23 @@
+.logs {
+    width: 100%;
+    padding: 20px;
+    height: 87vh;
+    overflow: auto;
+}
+
+table {
+    /* border: 1px solid red; */
+    width: 100%;
+    max-height: 80vh;
+
+}
+
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+td,
+th {
+    width: 25%;
+}
